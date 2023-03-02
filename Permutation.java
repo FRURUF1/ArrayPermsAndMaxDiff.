@@ -32,7 +32,6 @@ public class Permutation {
         System.out.println("Dizi uzunlugunu giriniz: ");
 
         // nextInt() metodu ile tam sayi turunde deger okumasi yapilir.
-
         int n = scanner.nextInt();
         int[] nums = new int[n];
         System.out.println("Dizi elemanlarini giriniz: ");
