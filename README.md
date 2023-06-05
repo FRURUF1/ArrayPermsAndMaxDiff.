@@ -1,3 +1,3 @@
 # ArrayPermsAndMaxDiff.
-Dizinin elemanları arası oluşan max farkı bulan Java kodu
-Dizinin tüm permütasyonlarını veren Java kodu
+Java code to find the maximum difference between the elements of the array
+Java code that returns all permutations of the array
